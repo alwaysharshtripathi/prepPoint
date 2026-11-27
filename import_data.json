@@ -1,0 +1,807 @@
+[
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Candid'.",
+    "options": ["Deceptive", "Frank", "Vague", "Secretive"],
+    "correct_answer": "Frank"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Ancient'.",
+    "options": ["Old", "Historic", "Modern", "Traditional"],
+    "correct_answer": "Modern"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["She don't like coffee.", "She doesn't likes coffee.", "She doesn't like coffee.", "She not like coffee."],
+    "correct_answer": "She doesn't like coffee."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Rapid'.",
+    "options": ["Slow", "Quick", "Weak", "Late"],
+    "correct_answer": "Quick"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Expand'.",
+    "options": ["Increase", "Extend", "Contract", "Develop"],
+    "correct_answer": "Contract"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct word to complete the sentence: She is good ___ mathematics.",
+    "options": ["in", "at", "on", "for"],
+    "correct_answer": "at"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "What does the idiom 'Break the ice' mean?",
+    "options": ["To end a friendship", "To start a conversation", "To create a problem", "To remain silent"],
+    "correct_answer": "To start a conversation"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correctly spelled word.",
+    "options": ["Accomodation", "Accommodation", "Acommodation", "Accommadation"],
+    "correct_answer": "Accommodation"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct article: He is ___ honest man.",
+    "options": ["a", "an", "the", "no article"],
+    "correct_answer": "an"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Brave'.",
+    "options": ["Cowardly", "Courageous", "Careless", "Timid"],
+    "correct_answer": "Courageous"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Generous'.",
+    "options": ["Kind", "Helpful", "Selfish", "Friendly"],
+    "correct_answer": "Selfish"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct form: Neither the manager nor the employees ___ willing to compromise.",
+    "options": ["was", "is", "were", "has"],
+    "correct_answer": "were"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "What does the idiom 'Once in a blue moon' mean?",
+    "options": ["Very frequently", "Very rarely", "At midnight", "Unexpectedly"],
+    "correct_answer": "Very rarely"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct word: The weather had a ___ effect on the crops.",
+    "options": ["adverse", "averse", "diverse", "reverse"],
+    "correct_answer": "adverse"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["He has went to Delhi.", "He have gone to Delhi.", "He has gone to Delhi.", "He had go to Delhi."],
+    "correct_answer": "He has gone to Delhi."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Begin'.",
+    "options": ["End", "Start", "Stop", "Delay"],
+    "correct_answer": "Start"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Permanent'.",
+    "options": ["Stable", "Temporary", "Fixed", "Constant"],
+    "correct_answer": "Temporary"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct preposition: The meeting starts ___ 10 a.m.",
+    "options": ["in", "on", "at", "by"],
+    "correct_answer": "at"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "What does the idiom 'A piece of cake' mean?",
+    "options": ["Something delicious", "Something very easy", "Something expensive", "Something impossible"],
+    "correct_answer": "Something very easy"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct spelling.",
+    "options": ["Definately", "Definitely", "Definitly", "Definetely"],
+    "correct_answer": "Definitely"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct pronoun: Rahul and ___ went to the library.",
+    "options": ["me", "I", "my", "mine"],
+    "correct_answer": "I"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Assist'.",
+    "options": ["Help", "Hinder", "Ignore", "Avoid"],
+    "correct_answer": "Help"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Accept'.",
+    "options": ["Receive", "Approve", "Reject", "Allow"],
+    "correct_answer": "Reject"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct form: The news ___ surprising.",
+    "options": ["were", "are", "was", "have"],
+    "correct_answer": "was"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "What does the idiom 'Hit the nail on the head' mean?",
+    "options": ["To make a mistake", "To say exactly the right thing", "To work very slowly", "To avoid a problem"],
+    "correct_answer": "To say exactly the right thing"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct word: Please ___ the document before submitting it.",
+    "options": ["review", "reveal", "revisee", "reverse"],
+    "correct_answer": "review"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["There is many reasons to study.", "There are many reasons to study.", "There have many reasons to study.", "There was many reasons to study."],
+    "correct_answer": "There are many reasons to study."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Silent'.",
+    "options": ["Noisy", "Quiet", "Angry", "Active"],
+    "correct_answer": "Quiet"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Victory'.",
+    "options": ["Success", "Triumph", "Defeat", "Achievement"],
+    "correct_answer": "Defeat"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct preposition: He is interested ___ learning programming.",
+    "options": ["on", "at", "in", "for"],
+    "correct_answer": "in"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "What does the idiom 'Under the weather' mean?",
+    "options": ["Feeling unwell", "Feeling excited", "Being outdoors", "Being confused"],
+    "correct_answer": "Feeling unwell"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct spelling.",
+    "options": ["Occassion", "Ocassion", "Occasion", "Occasssion"],
+    "correct_answer": "Occasion"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["Each of the students have submitted their assignment.", "Each of the students has submitted their assignment.", "Each of the students have submit their assignment.", "Each of the student has submitted their assignments."],
+    "correct_answer": "Each of the students has submitted their assignment."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for the word 'Prudent'.",
+    "options": ["Careless", "Wise", "Reckless", "Impulsive"],
+    "correct_answer": "Wise"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct antonym for the word 'Obsolete'.",
+    "options": ["Outdated", "Ancient", "Current", "Unused"],
+    "correct_answer": "Current"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The manager's explanation was ___ and convincing.",
+    "options": ["coherent", "cohesive", "confusing", "ambiguous"],
+    "correct_answer": "coherent"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'Beat around the bush' mean?",
+    "options": ["To avoid addressing the main topic", "To work extremely hard", "To finish quickly", "To speak honestly"],
+    "correct_answer": "To avoid addressing the main topic"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct sentence.",
+    "options": ["If I would have known, I would have helped.", "If I had known, I would have helped.", "If I knew, I would have helped yesterday.", "If I have known, I would help."],
+    "correct_answer": "If I had known, I would have helped."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The new policy will ___ all employees.",
+    "options": ["affect", "effect", "effects", "affects"],
+    "correct_answer": "affect"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for the word 'Meticulous'.",
+    "options": ["Careless", "Thorough", "Hasty", "Negligent"],
+    "correct_answer": "Thorough"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct antonym for the word 'Hostile'.",
+    "options": ["Aggressive", "Unfriendly", "Friendly", "Violent"],
+    "correct_answer": "Friendly"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct form: By the time we arrived, the movie ___.",
+    "options": ["started", "has started", "had started", "was start"],
+    "correct_answer": "had started"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'Burn the midnight oil' mean?",
+    "options": ["Waste electricity", "Work late into the night", "Start work early", "Avoid working"],
+    "correct_answer": "Work late into the night"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct sentence.",
+    "options": ["Neither the CEO nor the directors was available.", "Neither the CEO nor the directors were available.", "Neither the CEO or the directors were available.", "Neither the CEO nor directors was available."],
+    "correct_answer": "Neither the CEO nor the directors were available."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the word that best completes the sentence: His argument was ___ by strong evidence.",
+    "options": ["supported", "supposed", "suspended", "separated"],
+    "correct_answer": "supported"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for the word 'Eloquent'.",
+    "options": ["Articulate", "Confused", "Silent", "Unclear"],
+    "correct_answer": "Articulate"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct antonym for the word 'Rigid'.",
+    "options": ["Strict", "Flexible", "Firm", "Stiff"],
+    "correct_answer": "Flexible"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct preposition: She has been working here ___ 2022.",
+    "options": ["for", "since", "from", "during"],
+    "correct_answer": "since"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'Go the extra mile' mean?",
+    "options": ["Travel unnecessarily", "Make additional effort", "Avoid responsibility", "Take a long break"],
+    "correct_answer": "Make additional effort"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["The team are working on the project since Monday.", "The team has been working on the project since Monday.", "The team have worked on the project since Monday.", "The team is working on the project for Monday."],
+    "correct_answer": "The team has been working on the project since Monday."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The candidate gave a ___ response that addressed every concern.",
+    "options": ["comprehensive", "compromising", "competitive", "compulsive"],
+    "correct_answer": "comprehensive"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for the word 'Reluctant'.",
+    "options": ["Willing", "Hesitant", "Eager", "Certain"],
+    "correct_answer": "Hesitant"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct antonym for the word 'Transparent'.",
+    "options": ["Clear", "Obvious", "Opaque", "Visible"],
+    "correct_answer": "Opaque"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct sentence.",
+    "options": ["He is senior than me.", "He is senior to me.", "He is more senior than me.", "He is senior from me."],
+    "correct_answer": "He is senior to me."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'A blessing in disguise' mean?",
+    "options": ["A hidden advantage in an apparently bad situation", "A religious ceremony", "A clearly visible benefit", "An unavoidable problem"],
+    "correct_answer": "A hidden advantage in an apparently bad situation"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The company decided to ___ the outdated software.",
+    "options": ["discontinue", "discrete", "distinguish", "disclose"],
+    "correct_answer": "discontinue"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["Despite of the rain, the match continued.", "Despite the rain, the match continued.", "Despite it was raining, the match continued.", "Despite from the rain, the match continued."],
+    "correct_answer": "Despite the rain, the match continued."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for the word 'Diligent'.",
+    "options": ["Lazy", "Hardworking", "Careless", "Distracted"],
+    "correct_answer": "Hardworking"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct antonym for the word 'Scarce'.",
+    "options": ["Rare", "Limited", "Abundant", "Insufficient"],
+    "correct_answer": "Abundant"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The instructions were so ___ that everyone understood them.",
+    "options": ["ambiguous", "explicit", "vague", "obscure"],
+    "correct_answer": "explicit"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'Cut corners' mean?",
+    "options": ["Take a shortcut by compromising quality", "Decorate something", "Change direction", "Work more carefully"],
+    "correct_answer": "Take a shortcut by compromising quality"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct sentence.",
+    "options": ["She is one of the best engineer in the company.", "She is one of the best engineers in the company.", "She is one of the better engineer in the company.", "She is one among the best engineer in company."],
+    "correct_answer": "She is one of the best engineers in the company."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["No sooner did the meeting begin when the power failed.", "No sooner had the meeting begun than the power failed.", "No sooner the meeting had begun than the power failed.", "No sooner did the meeting began than the power failed."],
+    "correct_answer": "No sooner had the meeting begun than the power failed."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct synonym for the word 'Ubiquitous'.",
+    "options": ["Rare", "Present everywhere", "Temporary", "Invisible"],
+    "correct_answer": "Present everywhere"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct antonym for the word 'Benevolent'.",
+    "options": ["Compassionate", "Charitable", "Malevolent", "Generous"],
+    "correct_answer": "Malevolent"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct word: The CEO's statement was deliberately ___, allowing several interpretations.",
+    "options": ["unequivocal", "ambiguous", "explicit", "definitive"],
+    "correct_answer": "ambiguous"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "What does the idiom 'Throw down the gauntlet' mean?",
+    "options": ["Accept defeat", "Issue a challenge", "Avoid confrontation", "Offer assistance"],
+    "correct_answer": "Issue a challenge"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["Had I known about the issue, I would have informed you.", "Had I knew about the issue, I would have informed you.", "Had I known about the issue, I would inform you.", "Had I know about the issue, I would have informed you."],
+    "correct_answer": "Had I known about the issue, I would have informed you."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct synonym for the word 'Ephemeral'.",
+    "options": ["Eternal", "Short-lived", "Permanent", "Ancient"],
+    "correct_answer": "Short-lived"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct antonym for the word 'Loquacious'.",
+    "options": ["Talkative", "Verbose", "Reticent", "Expressive"],
+    "correct_answer": "Reticent"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct sentence.",
+    "options": ["The report, along with its appendices, were submitted yesterday.", "The report, along with its appendices, was submitted yesterday.", "The report, along with its appendices, have been submitted yesterday.", "The report and its appendices was submitted yesterday."],
+    "correct_answer": "The report, along with its appendices, was submitted yesterday."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "What does the idiom 'Read between the lines' mean?",
+    "options": ["Read very quickly", "Look for a hidden meaning", "Skip unnecessary information", "Read aloud"],
+    "correct_answer": "Look for a hidden meaning"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct word: The evidence was ___ to the investigation and could not be ignored.",
+    "options": ["pertinent", "permanent", "prevalent", "presumptive"],
+    "correct_answer": "pertinent"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct synonym for the word 'Intransigent'.",
+    "options": ["Flexible", "Uncompromising", "Cooperative", "Adaptable"],
+    "correct_answer": "Uncompromising"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct antonym for the word 'Exacerbate'.",
+    "options": ["Worsen", "Aggravate", "Alleviate", "Intensify"],
+    "correct_answer": "Alleviate"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["The criteria for selection is clearly defined.", "The criteria for selection are clearly defined.", "The criterion for selection are clearly defined.", "The criterions for selection is clearly defined."],
+    "correct_answer": "The criteria for selection are clearly defined."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "What does the idiom 'Bite the bullet' mean?",
+    "options": ["Avoid a difficult situation", "Face a difficult situation with courage", "Make a careless decision", "Postpone an unpleasant task"],
+    "correct_answer": "Face a difficult situation with courage"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct word: The researcher remained ___ despite repeated criticism of the study.",
+    "options": ["unfazed", "unfastened", "unfolded", "unverified"],
+    "correct_answer": "unfazed"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["Scarcely had he arrived when the meeting began.", "Scarcely he had arrived when the meeting began.", "Scarcely did he arrived when the meeting began.", "Scarcely had he arrive than the meeting began."],
+    "correct_answer": "Scarcely had he arrived when the meeting began."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct synonym for the word 'Pragmatic'.",
+    "options": ["Idealistic", "Practical", "Emotional", "Theoretical"],
+    "correct_answer": "Practical"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct antonym for the word 'Gregarious'.",
+    "options": ["Sociable", "Friendly", "Introverted", "Outgoing"],
+    "correct_answer": "Introverted"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct word: The witness gave a ___ account of the incident, leaving no important detail unexplained.",
+    "options": ["cursory", "comprehensive", "perfunctory", "fragmentary"],
+    "correct_answer": "comprehensive"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "What does the idiom 'The ball is in your court' mean?",
+    "options": ["You have made a mistake", "It is your responsibility to take the next action", "You have won the argument", "You should avoid taking action"],
+    "correct_answer": "It is your responsibility to take the next action"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["Were the company to reduce costs, it could remain competitive.", "Was the company to reduce costs, it could remain competitive.", "Were the company reduced costs, it could remain competitive.", "Were the company reducing costs, it could remained competitive."],
+    "correct_answer": "Were the company to reduce costs, it could remain competitive."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct synonym for the word 'Inadvertent'.",
+    "options": ["Intentional", "Accidental", "Deliberate", "Planned"],
+    "correct_answer": "Accidental"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct antonym for the word 'Obdurate'.",
+    "options": ["Stubborn", "Inflexible", "Compliant", "Persistent"],
+    "correct_answer": "Compliant"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct sentence.",
+    "options": ["It is high time that the company takes action.", "It is high time that the company took action.", "It is high time that the company has taken action.", "It is high time that the company take action yesterday."],
+    "correct_answer": "It is high time that the company took action."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "What does the idiom 'A double-edged sword' mean?",
+    "options": ["Something with only positive effects", "Something that has both benefits and drawbacks", "A dangerous weapon", "A problem with two solutions"],
+    "correct_answer": "Something that has both benefits and drawbacks"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the word that best completes the sentence: The proposal was rejected because its financial assumptions were ___ and lacked supporting evidence.",
+    "options": ["speculative", "conclusive", "empirical", "substantiated"],
+    "correct_answer": "speculative"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["The number of applicants have increased significantly.", "The number of applicants has increased significantly.", "The number of applicants are increased significantly.", "The number of applicant have increased significantly."],
+    "correct_answer": "The number of applicants has increased significantly."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct synonym for the word 'Austere'.",
+    "options": ["Luxurious", "Severe", "Decorative", "Extravagant"],
+    "correct_answer": "Severe"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Hard",
+    "text": "Choose the correct antonym for the word 'Conspicuous'.",
+    "options": ["Noticeable", "Prominent", "Unobtrusive", "Visible"],
+    "correct_answer": "Unobtrusive"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The two candidates had ___ opinions about the proposed policy.",
+    "options": ["complimentary", "complementary", "complement", "compliment"],
+    "correct_answer": "complementary"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct sentence.",
+    "options": ["I look forward to meet you.", "I look forward to meeting you.", "I look forward for meeting you.", "I am looking forward to met you."],
+    "correct_answer": "I look forward to meeting you."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'Keep something at bay' mean?",
+    "options": ["Keep something under control or at a distance", "Keep something nearby", "Make something more important", "Hide something permanently"],
+    "correct_answer": "Keep something under control or at a distance"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for the word 'Concise'.",
+    "options": ["Brief", "Lengthy", "Confusing", "Repetitive"],
+    "correct_answer": "Brief"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct antonym for the word 'Mandatory'.",
+    "options": ["Required", "Compulsory", "Optional", "Essential"],
+    "correct_answer": "Optional"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The manager asked the team to ___ the issue before the deadline.",
+    "options": ["resolve", "reserve", "revise", "reverse"],
+    "correct_answer": "resolve"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["He is accustomed to work under pressure.", "He is accustomed to working under pressure.", "He is accustomed for working under pressure.", "He accustomed to working under pressure."],
+    "correct_answer": "He is accustomed to working under pressure."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'On the same page' mean?",
+    "options": ["Reading the same document", "Having a shared understanding", "Working at the same location", "Agreeing to disagree"],
+    "correct_answer": "Having a shared understanding"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct synonym for the word 'Feasible'.",
+    "options": ["Impossible", "Practical", "Uncertain", "Irrelevant"],
+    "correct_answer": "Practical"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct antonym for the word 'Deteriorate'.",
+    "options": ["Decline", "Worsen", "Improve", "Damage"],
+    "correct_answer": "Improve"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the correct word: The company must ___ with all applicable regulations.",
+    "options": ["comply", "compile", "compliment", "complete"],
+    "correct_answer": "comply"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "Choose the grammatically correct sentence.",
+    "options": ["The project was completed despite several unexpected challenges.", "The project completed despite several unexpected challenges.", "The project was complete despite several unexpected challenges.", "The project had completing despite several unexpected challenges."],
+    "correct_answer": "The project was completed despite several unexpected challenges."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Medium",
+    "text": "What does the idiom 'Get the ball rolling' mean?",
+    "options": ["Stop an activity", "Start an activity or process", "Win a competition", "Avoid a discussion"],
+    "correct_answer": "Start an activity or process"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Happy'.",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "correct_answer": "Joyful"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Difficult'.",
+    "options": ["Hard", "Complex", "Easy", "Tough"],
+    "correct_answer": "Easy"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct word: She ___ to the office every day.",
+    "options": ["go", "goes", "going", "gone"],
+    "correct_answer": "goes"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "What does the idiom 'Call it a day' mean?",
+    "options": ["Name a particular day", "Stop working for the day", "Start working early", "Plan a meeting"],
+    "correct_answer": "Stop working for the day"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correctly spelled word.",
+    "options": ["Separate", "Seperate", "Seperete", "Separrate"],
+    "correct_answer": "Separate"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct sentence.",
+    "options": ["I have two brother.", "I has two brothers.", "I have two brothers.", "I having two brothers."],
+    "correct_answer": "I have two brothers."
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct synonym for the word 'Smart'.",
+    "options": ["Intelligent", "Foolish", "Weak", "Slow"],
+    "correct_answer": "Intelligent"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct antonym for the word 'Early'.",
+    "options": ["Soon", "Prompt", "Late", "Quick"],
+    "correct_answer": "Late"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "Choose the correct word: We arrived ___ the airport before noon.",
+    "options": ["at", "in", "on", "to"],
+    "correct_answer": "at"
+  },
+  {
+    "category": "Communication",
+    "difficulty": "Easy",
+    "text": "What does the idiom 'In hot water' mean?",
+    "options": ["Feeling warm", "Being in trouble", "Being successful", "Being relaxed"],
+    "correct_answer": "Being in trouble"
+  }
+]
