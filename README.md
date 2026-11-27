@@ -1,36 +1,122 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PrepPoint – Online Assessment & Placement Preparation Platform
+
+PrepPoint is an online assessment platform designed to help students prepare for placement examinations through structured mock assessments. It provides an environment where users can attempt questions across different categories, evaluate their performance, and track their progress over time.
+
+## Features
+
+- **User Authentication:** Secure registration and login using Supabase Authentication.
+- **Assessment Dashboard:** Access available assessment modes and view assessment-related information.
+- **Timed Assessments:** Attempt questions within a predefined time limit.
+- **Multiple Categories:** Questions covering Technical, Logical Reasoning, Aptitude, and Communication.
+- **Difficulty Levels:** Questions organized into Easy, Medium, Hard, and Mixed difficulty levels.
+- **Performance Analysis:** View assessment results and analyze performance.
+- **Assessment History:** Access previous attempts and track performance over time.
+- **Profile Management:** View account information and personal assessment statistics.
+- **Anti-Cheating Measures:** Full-screen monitoring with visibility warnings and automatic submission after repeated violations.
+
+## Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| Next.js 16 | Application framework |
+| React 19 | User interface |
+| TypeScript | Type safety |
+| Tailwind CSS 4 | Styling and responsive design |
+| Supabase | Database and authentication |
+| PostgreSQL | Relational database |
+
+## Assessment Structure
+
+The assessment engine is designed around the following structure:
+
+| Parameter | Details |
+|---|---|
+| Duration | 60 Minutes |
+| Total Questions | 45 |
+| Question Bank | 400+ Questions |
+| Categories | Technical, Logical, Aptitude, Communication |
+| Difficulty | Easy, Medium, Hard, Mixed |
 
 ## Getting Started
 
-First, run the development server:
+Follow these steps to run PrepPoint locally.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js
+- npm
+- Git
+- A Supabase account
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/alwaysharshtripathi/prepPoint.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd prepPoint
+```
+
+### 3. Install Dependencies
+
+```bash
+npm install
+```
+
+### 4. Configure Environment Variables
+
+Create a `.env.local` file in the root directory and add your Supabase project credentials.
+
+```env
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_publishable_or_anon_key
+```
+
+Use the variable names expected by your Supabase client configuration. Never expose your Supabase secret or service role key.
+
+### 5. Run the Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser to access the application.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```text
+prepPoint/
+│
+├── public/              # Static assets
+├── src/                 # Application source code
+├── .gitignore           # Git ignored files
+├── import_data.json     # Assessment import data
+├── questions.csv        # Question bank data
+├── seed.js              # Database seeding script
+├── package.json         # Project dependencies
+├── package-lock.json    # Dependency lock file
+├── next.config.ts       # Next.js configuration
+└── tsconfig.json        # TypeScript configuration
+```
 
-## Learn More
+## Future Improvements
 
-To learn more about Next.js, take a look at the following resources:
+- Additional assessment categories and question sets.
+- More detailed performance analytics.
+- Improved assessment recommendations based on previous attempts.
+- Additional placement preparation resources.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Author
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Harsh Tripathi**
 
-## Deploy on Vercel
+- GitHub: [@alwaysharshtripathi](https://github.com/alwaysharshtripathi)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*PrepPoint – Practice, Evaluate, Improve.*
